@@ -1,0 +1,39 @@
+{
+  "sistemas": [
+    {
+      "id": 1,
+      "sistema": "Sistema 1",
+      "logo": "Logo 1",
+      "orden_visual": "Orden Visual 1",
+      "estado": "A"
+    },
+    {
+      "id": 2,
+      "sistema": "Sistema 2",
+      "logo": "Logo 2",
+      "orden_visual": "Orden Visual 2",
+      "estado": "A"
+    },
+    {
+      "id": 3,
+      "sistema": "Sistema 3",
+      "logo": "Logo 3",
+      "orden_visual": "Orden Visual 3",
+      "estado": "A"
+    },
+    {
+      "id": 4,
+      "sistema": "Sistema 4",
+      "logo": "Logo 4",
+      "orden_visual": "Orden Visual 4",
+      "estado": "A"
+    },
+    {
+      "id": 5,
+      "sistema": "Sistema 5",
+      "logo": "Logo 5",
+      "orden_visual": "Orden Visual 5",
+      "estado": "A"
+    }
+  ]
+}
